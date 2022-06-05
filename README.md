@@ -1,4 +1,4 @@
-### Olá! Me chamo Walbert e estou quase formado em Pedagogia mas depois de estudar programação, decidi que queria ser desenvolvedor Frontend! Minhas principais áreas de conhecimento no ramo da tecnologia são: desenvolvimento de programas em React, Pyhton, Java, JavaScript, Angular e TypeScript, assim como HTML5 e CSS. MySQL para modelagem de banco. Git e GitHub para gerenciamento de configuração.
+### Hi! My name is Walbert and I'm almost graduated in Pedagogy but after studying programming, I decided I wanted to be a Frontend developer! My main areas of knowledge in the field of technology are: development of programs in React, Python, Java, JavaScript, Angular and TypeScript, as well as HTML5 and CSS. MySQL for database modeling. Git and GitHub for configuration management.
 
 <div align="center">
   <a href="https://github.com/walbinh0">

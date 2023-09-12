@@ -1,4 +1,4 @@
-### Hi! My name is Walbert and I'm almost graduated in Pedagogy but after studying programming, I decided I wanted to be a QA Analyst! My main areas of knowledge in the field of technology are: development of programs in React, Python, Java, JavaScript, Angular and TypeScript, as well as HTML5 and CSS. MySQL for database modeling. Git and GitHub for configuration management. Cypress, BDD, Selenium and others.
+### Oi! Meu nome é Walbert e sou quase formado em Pedagogia mas depois de estudar programação, decidi mudar de área. Hoje sou um estudante dedicado de Análise e Desenvolvimento de Sistemas apaixonado por garantir a qualidade e a eficiência no desenvolvimento de software. Minha jornada acadêmica e profissional está firmemente centrada na área de QA, onde busco constantemente aprimorar minhas habilidades e conhecimentos para impulsionar projetos de sucesso
 
 <div align="center">
   <a href="https://github.com/walbinh0">

@@ -1,4 +1,4 @@
-### Oi! Meu nome é Walbert e sou quase formado em Pedagogia mas depois de estudar programação, decidi mudar de área. Hoje sou um estudante dedicado de Análise e Desenvolvimento de Sistemas apaixonado por garantir a qualidade e a eficiência no desenvolvimento de software. Minha jornada acadêmica e profissional está firmemente centrada na área de QA, onde busco constantemente aprimorar minhas habilidades e conhecimentos para impulsionar projetos de sucesso
+### Oi! Meu nome é Walbert e sou quase formado em Pedagogia mas depois de estudar programação, decidi mudar de área. Hoje sou um estudante dedicado de Análise e Desenvolvimento de Sistemas apaixonado por garantir a qualidade e a eficiência no desenvolvimento de software. Minha jornada acadêmica e profissional está firmemente centrada na área de QA, onde busco constantemente aprimorar minhas habilidades e conhecimentos para impulsionar projetos de sucesso 
 
 <div align="center">
   <a href="https://github.com/walbinh0">

@@ -1,15 +1,3 @@
-<div align="center">   
-  <p id="title">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+Walbert+Chaves."/>
-  </p>
-  <p id="subtitle">
-   𝗤𝗔 | 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗤𝘂𝗮𝗹𝗶𝗱𝗮𝗱𝗲 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 | 𝗧𝗲𝘀𝘁𝗲𝘀 𝗠𝗮𝗻𝘂𝗮𝗶𝘀 𝗲 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝘇𝗮𝗱𝗼𝘀 | 𝗔𝗣𝗜 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 |  𝗖𝗶𝗰𝗹𝗼 𝗱𝗲 𝗩𝗶𝗱𝗮 𝗱𝗲 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲
-
-  </p>    
-  <br>
-</div>
-
-
 ## 📋Sobre mim
   Focado em Quality Assurance (QA) com forte base em programação e tecnologia. Tenho experiência em desenvolvimento de software fullstack e conhecimento em banco de dados e estou direcionando minha carreira para garantir qualidade de software através de testes manuais e automatizados.
 
@@ -72,29 +60,3 @@ Atuei no desenvolvimento, manutenção e aprimoramento de aplicações web utili
 - Conhecimento avançado no funcionamento de um desenvolvimento de software , UI/UX , frontend , backend.
 </details>
 ---
-
-## 🌐 Conecte-se
-### ⚙️ DevOps & Outras Ferramentas:
-
-Entre em contato ou acompanhe o trabalho:
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![JIRA](https://img.shields.io/badge/-JIRA-333333?style=flat&logo=jira)
-![TestRail](https://img.shields.io/badge/-TestRail-333333?style=flat&logo=testrail)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-333333?style=flat&logo=googlesheets)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-
-- [Website](não possuo ainda) - Portfólio e detalhes sobre meus projetos e experiência.
-- [Instagram](https://youtube.com/@horadoqa) - Dicas e tutoriais sobre qualidade de software e testes.
-- [E-mail](walbertchaves12@gmail.com) - Para perguntas ou vagas.
----
-
-## 🧠 Aprender no futuro
-🧠 Aprender no futuro
-k6: Ferramenta de teste de carga de código aberto, utilizada para avaliar a performance de aplicações web por meio de simulações realistas de usuários virtuais. Ideal para testes de stress e desempenho.
-### 📚 Formação
-
-JMeter: Ferramenta da Apache para testes de carga e desempenho, muito utilizada para validar a escalabilidade de aplicações web, serviços REST e SOAP.
-- 🎓 Ensino superior em Análise e Desenvolvimento de Sistemas (5/5)
-- 🧪 Rumo a uma carreira sólida em **Qualidade de Software**

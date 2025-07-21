@@ -19,11 +19,10 @@ Atuei no desenvolvimento, manutenção e aprimoramento de aplicações web utili
   - Cursando ensino superior em analise e desenvolvimento de sistemas(5/5).
   -  pretendo começar o curso qualiters club
 - 🔍 Em transição para a área de **Quality Assurance (QA)**  
-- 👨‍💻 Experiência como desenvolvedor fullstack javascript  
+- 👨‍💻 Experiência como estagiário de operação de qualidade  
 - 🧠 Forte base em programação e ciclo de vida de desenvolvimento de software  
 - 📚 Atualmente estudando ferramentas e praticando testes manuais  
 - 🛠 Também estudando  **gestão de projetos** e aprofundando os **fundamentos de teste**  
-- ✍️ Estou cursando o curso **Qazando trilha QA 2.0**  
 - 📫 Contato: [walbertchaves12@gmail.com](mailto:walbertchaves12@gmail.com)  
 - 📷 Instagram : [Walbert](https://www.instagram.com/_walbertchaves/)  
 
